@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi!
+I'm a computer science enginering tudent.
